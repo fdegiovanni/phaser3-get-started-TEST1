@@ -15,7 +15,7 @@ _Comenza a usar Phaser en menos de 2 horas_
 
 _¡Felicitaciones! Completaste este curso_
 
-
+<img src="https://github.com/fdegiovanni/phaser3-get-started/blob/main/videos/celebration.gif" alt="celebrate" width=800>
 
 ![celebrate](https://github.com/fdegiovanni/phaser3-get-started/blob/main/videos/celebration.gif)
 
