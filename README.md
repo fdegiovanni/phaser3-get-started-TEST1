@@ -15,7 +15,7 @@ _Comenza a usar Phaser en menos de 2 horas_
 
 _¡Felicitaciones! Completaste este curso_
 
-<img src="../../videos/celebration.gif" alt="celebrate" width=800>
+![celebrate](../../videos/celebration.gif)
 
 Aquí hay un resumen de todas las tareas que ha realizado en su repositorio:
 
